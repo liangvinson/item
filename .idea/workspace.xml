@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dcb1524-2592-4c5e-b6c7-d790fb88e171" name="Default Changelist" comment="" />
+    <list default="true" id="3dcb1524-2592-4c5e-b6c7-d790fb88e171" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +251,7 @@
       <updated>1561450760045</updated>
       <workItem from="1561450765005" duration="7276000" />
       <workItem from="1561606452963" duration="2686000" />
-      <workItem from="1562136570109" duration="10529000" />
+      <workItem from="1562136570109" duration="11330000" />
     </task>
     <task id="LOCAL-00001" summary="第三章前">
       <created>1563331432912</created>
@@ -258,16 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1563331432912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第三章前">
+      <created>1563331842228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563331842228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20491000" />
+    <option name="totallyTimeSpent" value="21292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="251" y="79" width="1400" height="978" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25447762" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25447762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,7 +285,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925372" visible="true" weight="0.33861145" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925372" weight="0.33861145" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +294,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.33861145" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.33861145" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32938388" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
