@@ -91,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Number/Calcutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="110">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -272,7 +272,7 @@
       <updated>1561450760045</updated>
       <workItem from="1561450765005" duration="7276000" />
       <workItem from="1561606452963" duration="2686000" />
-      <workItem from="1562136570109" duration="13424000" />
+      <workItem from="1562136570109" duration="16022000" />
     </task>
     <task id="LOCAL-00001" summary="第三章前">
       <created>1563331432912</created>
@@ -295,14 +295,22 @@
       <option name="project" value="LOCAL" />
       <updated>1563332549736</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第三章前">
+      <created>1563334663416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563334663416</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23386000" />
+    <option name="totallyTimeSpent" value="25984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="212" y="18" width="1400" height="978" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25447762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -401,8 +409,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Number/Calcutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="110">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
