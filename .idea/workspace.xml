@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcb1524-2592-4c5e-b6c7-d790fb88e171" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Number4/Compound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number4/GetTerm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number4/Getif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number4/Getifelse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number4/Compound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number4/Compound.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,28 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Number/First.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Number/Number.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Number/Gess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -58,15 +43,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
               <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Number/Eval.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -92,8 +68,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Number4/Compound.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="330">
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Number4/Getif.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Number4/Getifelse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Number4/GetTerm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -102,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/Number/Calcutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -119,6 +122,9 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -133,6 +139,9 @@
         <option value="$PROJECT_DIR$/src/Number/Compare.java" />
         <option value="$PROJECT_DIR$/src/Number/Calcutation.java" />
         <option value="$PROJECT_DIR$/src/Number4/Compound.java" />
+        <option value="$PROJECT_DIR$/src/Number4/Getif.java" />
+        <option value="$PROJECT_DIR$/src/Number4/Getifelse.java" />
+        <option value="$PROJECT_DIR$/src/Number4/GetTerm.java" />
       </list>
     </option>
   </component>
@@ -159,6 +168,12 @@
               <item name="item" type="b2602c69:ProjectViewProjectNode" />
               <item name="item" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="item" type="b2602c69:ProjectViewProjectNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Number" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="item" type="b2602c69:ProjectViewProjectNode" />
@@ -195,20 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calcutation">
-    <configuration name="Arith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number.Arith" />
-      <module name="item" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Number.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Compound">
     <configuration name="Calcutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Number.Calcutation" />
       <module name="item" />
@@ -222,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number.Compare" />
+    <configuration name="Compound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number4.Compound" />
       <module name="item" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number.*" />
+          <option name="PATTERN" value="Number4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number.Eval" />
+    <configuration name="GetTerm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number4.GetTerm" />
       <module name="item" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number.*" />
+          <option name="PATTERN" value="Number4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +250,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Val" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number.Val" />
+    <configuration name="Getif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number4.Getif" />
       <module name="item" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number.*" />
+          <option name="PATTERN" value="Number4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Getifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number4.Getifelse" />
+      <module name="item" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Number4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Compound" />
+        <item itemvalue="Application.GetTerm" />
+        <item itemvalue="Application.Getifelse" />
+        <item itemvalue="Application.Getif" />
         <item itemvalue="Application.Calcutation" />
-        <item itemvalue="Application.Compare" />
-        <item itemvalue="Application.Arith" />
-        <item itemvalue="Application.Eval" />
-        <item itemvalue="Application.Val" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +298,7 @@
       <updated>1561450760045</updated>
       <workItem from="1561450765005" duration="7276000" />
       <workItem from="1561606452963" duration="2686000" />
-      <workItem from="1562136570109" duration="19884000" />
+      <workItem from="1562136570109" duration="27821000" />
     </task>
     <task id="LOCAL-00001" summary="第三章前">
       <created>1563331432912</created>
@@ -320,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563345487809</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第四章">
+      <created>1563361029450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563361029450</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29846000" />
+    <option name="totallyTimeSpent" value="37783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="212" y="18" width="1400" height="978" extended-state="0" />
@@ -338,16 +360,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925372" weight="0.33861145" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49850747" visible="true" weight="0.33861145" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925372" visible="true" weight="0.32886723" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925372" weight="0.32886723" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.32886723" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50149256" side_tool="true" visible="true" weight="0.33861145" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32938388" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -363,9 +385,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第三章前" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三章前" />
+    <MESSAGE value="第四章" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四章" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Number/Eval.java">
@@ -420,7 +469,7 @@
     <entry file="file://$PROJECT_DIR$/src/Number/Calcutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -431,10 +480,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Number4/Getif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Number4/Getifelse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Number4/GetTerm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Number4/Compound.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="330">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
         </state>
       </provider>
     </entry>
