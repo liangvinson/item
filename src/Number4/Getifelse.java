@@ -1,5 +1,6 @@
 package Number4;
-//4.2 if else的应用
+/*4.2 if else的应用
+*/
 public class Getifelse {
     public static void main(String[] args){
         int math = 95;
