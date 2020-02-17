@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3dcb1524-2592-4c5e-b6c7-d790fb88e171" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number5/WordBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number5/WordBook.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Number/Number.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Number5/WordBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,10 +101,10 @@
         <option value="$PROJECT_DIR$/src/Number5/NewStr.java" />
         <option value="$PROJECT_DIR$/src/Number5/StartOrEnd.java" />
         <option value="$PROJECT_DIR$/src/Number5/Opinion.java" />
-        <option value="$PROJECT_DIR$/src/Number5/WordBook.java" />
         <option value="$PROJECT_DIR$/src/Number5/UpAndLower.java" />
         <option value="$PROJECT_DIR$/src/TestPlan.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/Number5/WordBook.java" />
       </list>
     </option>
   </component>
@@ -265,6 +275,7 @@
       <workItem from="1573614811127" duration="1511000" />
       <workItem from="1577958358219" duration="4722000" />
       <workItem from="1581947849426" duration="45000" />
+      <workItem from="1581950196786" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary="第三章前">
       <created>1563331432912</created>
@@ -343,16 +354,24 @@
       <option name="project" value="LOCAL" />
       <updated>1581947880600</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="第五章">
+      <created>1581950239875</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581950239875</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91017000" />
+    <option name="totallyTimeSpent" value="91280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="141" y="62" width="1400" height="978" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28507462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28955224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -553,13 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Number5/WordBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Number5/Subs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -641,6 +653,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Number5/WordBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
