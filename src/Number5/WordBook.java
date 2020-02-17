@@ -12,4 +12,3 @@ public class WordBook {
         System.out.println(str+"compareTo "+str2+" "+str.compareTo(str3));
     }
 }
-a
